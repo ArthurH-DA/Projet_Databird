@@ -1,0 +1,54 @@
+Énergies renouvelables :
+
+Énergie solaire :
+Jaune vif (#FFD700)
+
+Énergie éolienne :
+Bleu clair (#87CEEB)
+
+Énergie hydroélectrique :
+Bleu foncé (#4682B4)
+
+Énergie géothermique :
+Orange (#FFA500)
+
+Énergie biomasse :
+Vert foncé (#006400)
+
+
+Énergies non renouvelables :
+
+Pétrole :
+Noir (#000000)
+
+Gaz naturel :
+Bleu marine (#000080)
+
+Charbon :
+Gris foncé (#2F4F4F)
+
+Énergie nucléaire :
+Gris (#808080)
+
+
+Investissements :
+
+Investissement élevé :
+Vert (#008000)
+
+Investissement moyen :
+Jaune (#FFFF00)
+
+Investissement faible :
+Rouge (#FF0000)
+
+Autres éléments :
+
+Croissance des investissements :
+Vert clair (#90EE90)
+
+Diminution des investissements :
+Rouge clair (#FFB6C1)
+
+Stable :
+Orange clair (#FFA07A)
